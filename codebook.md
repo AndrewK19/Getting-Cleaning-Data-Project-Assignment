@@ -68,7 +68,7 @@ Write out the tidy dataset to `averagedata.txt`.
    the subsetted activites to the corresponding `code` value.
 
 6. **Appropriately labels the data set with descriptive variable names.**
-- Use the `gub()` function to properly label all variables with the correct descriptions.
+- Use the `gsub()` function to properly label all variables with the correct descriptions.
     + *prefix t is replaced by time*
     + *Acc is replaced by Accelerometer*
     + *Gyro is replaced by Gyroscope*
