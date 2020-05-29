@@ -6,7 +6,7 @@
 - Full description of the data can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 # Files 
-- `codebook.md.` describes the variables, the data, and any work that are performed to clean up the data.
+- `codebook.md.` describes the variables, the data, and any work that was performed to clean up the data.
 
 - `run_analysis.R` contains all the coding for doing the course project, that includes downloading and unzipping the dataset that is used for this project.
 
